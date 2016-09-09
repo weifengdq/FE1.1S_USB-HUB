@@ -9,3 +9,5 @@ Some time ago, when I found a job for Intelligent Hardware, a company give me th
 **FE1.1s_Data_Sheet_(Rev._1.0).pdf** is the datasheet.  
 **fe1.1s应用电路.pdf** is the reference circuit. I change the power to two Micro-USB.  
 Then it's the image of PCB:  
+
+![USB-HUB](https://github.com/weifengdq/FE1.1S_USB-HUB/raw/master/Images/FE1.1.png) ![USB-HUB_PCB](https://github.com/weifengdq/FE1.1S_USB-HUB/raw/master/Images/FE1.1_pcb.png)
